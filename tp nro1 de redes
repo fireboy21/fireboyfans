@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<h1>Algo mas random que esta pagina no existe xd</h1>
-
-<h2>nada que decir, mas cosas random</h2>
-<ol>
-  <li> el profe moskito es el mejor :p </li>
-  <li> ya estoy aprobado? </li>
-  <li> espero que si abjahf </li>
-  <li> juro que si esto me sale, es de puro ogt, estoy improvisando nomas </li>
-</ol>
-
-<img src="https://ahseeit.com/spanish/king-include/uploads/2021/02/thumb_120094057_1103361043392941_7152407443753280877_n-6633592473.jpg" alt="">
-
-<h1> Meme porque si xd</h1>
-
-  <b>tengo tiempo para saber si lo que sueño concluyeen algo</b>
 
 
 <html lang="en">
@@ -21,9 +5,100 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
+  <title>hackerscrew.com</title>
 </head>
+
 <body>
+
+  <h1>WELCOME TO THE HACKERS WEB !!</h1>
+  <h2>and it is from this world of darkness which come the evil, destructive forces of man's nature </h2>
+
+
+  <img src="/home/estudiante/3ro Duran Abalo Roviralta/tumblr_5e60a74d02de6935a67dd9b929b87d03_1e482425_1280.png" alt="" width="800">
+
+  <h1>lugar seguro para gente con buen gusto, como nosotros :p</h1>
+
+
+
+  <table class="default">
+
+  <section class="">
+
+
+  <table class="default">
+
+ <tr> <!-- define una fila de la tabla -->
+ <th>PIERCE THE VEIL playlist</th> <!--th define un encabezado de columna de tabla -->
+ <th>NIRVANA playlist</th>
+ </tr>
+
+   <tr>
+   <td>track 01-hell above</td> <!-- td define un dato (un elemento de la tabla) -->
+   <td>track 01-lithium</td>
+
+  </tr>
+
+
+  <tr>
+  <td>track 02-disasterology</td>
+  <td>track 02-in bloom</td>
+
+  </tr>
+
+  <tr>
+  <td>track 03-bedless</td>
+  <td>track 03-about a girl</td>
+
+  </tr>
+
+  </table>
+
+  </section>
+
+  <header/>
+   <nav class=""> <!--etiquetapara definir navegacion. Barras de navegacion
+               menues con links etc-->
+  <h4>PIERCE THE VEIL</h4>
+
+ <ul>
+<li><a href="https://www.youtube.com/watch?v=wq0mbynj4_k">track 01</a></li>
+<li><a href="https://www.youtube.com/watch?v=j3Mc5ILV3FM">track 02<a/></li>
+<li><a href="https://www.youtube.com/watch?v=S7ejc3qn06w">track 03<a/></li>
+                  </ul>
+<p></p>
+<h4>NIRVANA</h4>
+<ul>
+
+<li><a href="https://www.youtube.com/watch?v=pkcJEvMcnEg">track 01</a></a></li>
+<li><a href="https://www.youtube.com/watch?v=PbgKEjNBHqM">track 02<a/></li>
+<li><a href="https://www.youtube.com/watch?v=AhcttcXcRYY">track 03<a/></li>
+
+
+</ul>
+</nav>
+
+<img src="/home/estudiante/3ro Duran Abalo Roviralta/果歩 (@Hf6Fu).png" alt="" width="400">
+<h2>this is us <3 </h2>
+
+  <section class="">
+<h4>El mejor personaje es... </h4>
+</form>
+
+<form action="/action_page.php" method="get">
+  <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">Suguru Geto</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS"checked="checked">
+  <label for="css">Gojo Satoru</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="Javascript">
+  <label for="javascript">Mahito... (u suck :/)</label><br><br>
+  <input type="submit" value="submit">
+
+
+
+</form>
+
+  </section>
+
 
 </body>
 </html>
