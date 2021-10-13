@@ -1,0 +1,30 @@
+.texto1{
+  background-color: pink;
+  width: 200px;
+  height:150px;
+  border: 10px solid;
+  padding: 10px;
+  margin: 0px 15px;
+}
+.texto2{
+  background-color: lavender;
+  width:200px;
+  height:150px;
+  border: 10px solid;
+  border-top: 10px solid;
+  padding: 10px;
+  margin: 0px 255px;
+
+}
+.texto3{
+  background-color: salmon;
+  width:200px;
+  height:150px;
+  border: 10px solid;
+  padding: 10px;
+  margin: 0px 495px
+}
+.imagen1{
+  margin: 10px 550px;
+  width: 500px;
+}
