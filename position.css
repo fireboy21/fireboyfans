@@ -1,42 +1,28 @@
-.top{
+*{
+margin: 1;
 
-  background-color: olive;
-  width: 100px;
-  height: 200px;
-  position: relative;
-  left: 200px;
-  display: inline-block;
-  top: 0px;
-  bottom: 0px;
-  right: 0px;
+}
+header{
+  background-color: chocolate;
+
+}
+.marroc{
+  background-color: pink;
+  width: 150px;
+  height: 75px;
 
 }
 
-.mid{
-  background-color: peru;
-  width: 200px;
-  height: 200px;
-  position: relative;
-  left: 200px;
-  display: inline-block;
-  top:200px ;
-  bottom: 0px;
-  right: 0px;
+.tallarines{
+  background-color: teal;
+  height: 100;
+
 
 }
 
-.bot{
+.{
   background-color: rebeccapurple;
   width: 100px;
-  height: 200px;
-  position: relative;
-  left: 200px;
-  display: inline-block;
-  top: 0px;
-  bottom: 0px;
-  right: 0px;
-}
-.container{
-  background-color: red;
-  height: 400px
+  height: 100px;
+
 }
