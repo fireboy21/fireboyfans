@@ -1,5 +1,5 @@
 *{
-margin: 1;
+margin: 5;
 
 }
 header{
@@ -16,25 +16,56 @@ header h1 {
   font-style: italic;
   padding: 20px;
 }
+iframe{
+  padding: 10%;
+}
 .marroc{
   text-align: center;
   background-color: pink;
   width: 39%;
-  height: 75px;
+  height: 85px;
   display: inline-block;
 
 }
 
+.container1{
+  position: relative;
+  width: 100%;
+  height: 40%;
+
+}
 .tallarines{
   background-color: teal;
-  height: 100;
   display: inline-block;
+  width: 59%;
+  float: left;
+  margin-right: 5px;
+}
+
+.paleta{
+  background-color: chocolate;
+  display: inline-block;
+  width: 40%;
 
 }
 
-.tirabuzon{
-  background-color: rebeccapurple;
-  width: 100px;
-  height: 100px;
-  display: inline-block;
+.Peleas{
+  position: relative;
+  top:140px;
+  background-color: green;
+  width: 700px;
+
+}
+
+.Peleas2{
+  position: relative;
+  top: 140px;
+  background-color: blue;
+  width: 700px;
+}
+.Peleas3{
+  position: relative;
+  top: 140px;
+  background-color: brown;
+  width: 700px;
 }

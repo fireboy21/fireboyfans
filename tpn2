@@ -9,7 +9,7 @@
 </head>
 <body>
   <header>
-    <h1>Los anime con los protas más rotos</h1>
+    <h1>Mejores Peleas del anime</h1>
 
   </header>
   <nav class="marroc">
@@ -19,27 +19,65 @@
       <li><a href="#">Opiniones</a></li>
     </ul>
   </nav>
-  <section class"">
-    <article class="tallarines">
-      <h2>Nombres</h2>
+
+  <div class="turron">
+
+  <section class="container1">
+    <div class="tallarines">
+      <h2>Peleas</h2>
     <ol>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Rock lee vs Garaa</li><br>
+      <li></li><br>
+      <li></li><br>
+      <li></li><br>
+      <li></li><br>
     </ol>
-    </article>
-    <article class="tirabuzon">
+   </div>
+    <div class="paleta">
+      <nav class="">
+        <ul>
+          <li><a href="#Rock Lee vs Garaa">Rock Lee vs Garaa</a></li>
+          <li><a href="#JvsDio">Jotaro vs Dio</a></li>
+          <li><a href="#"></a></li>
+          <li><a href="#"></a></li>
+          <li><a href="#"></a></li>
+        </ul>
+      </nav>
+    </div>
 
-    </article>
   </section>
-  <section class"ravioles">
-    <article class="queso">
+  </div>
 
-    </article>
-    <article class="">
+  <div class="Peleas" id="Rock vs Garaa">
+    <h1>Rock lee Vs Garaa.</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+  <img src="" alt="">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 
-    </article>
-  </section>
+  <div class="Peleas2" id="JvsDio">
+    <h1>Jotaro vs Dio</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+  <div class="Peleas3" id="">
+    <h1></h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+
+
   <aside class="">
 
   </aside>
