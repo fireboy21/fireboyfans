@@ -2,6 +2,13 @@
 margin: 5;
 
 }
+body{
+  background-color: #D0E4F5;
+  background-image: url("rio.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: 50% 50%;
+}
 header{
   background-color:
   color: #bc2e1e;
@@ -9,6 +16,7 @@ header{
   text-shadow: 0 1px 0px #378ab4, 1px 0 0px #5dabcd, 1px 2px 1px #378ab4, 2px 1px 1px #5dabcd, 2px 3px 2px #378ab4, 3px 2px 2px #5dabcd, 3px 4px 2px #378ab4, 4px 3px 3px #5dabcd, 4px 5px 3px #378ab4, 5px 4px 2px #5dabcd, 5px 6px 2px #378ab4, 6px 5px 2px #5dabcd, 6px 7px 1px #378ab4, 7px 6px 1px #5dabcd, 7px 8px 0px #378ab4, 8px 7px 0px #5dabcd;
   display: inline-block;
   width: 60%;
+  background-image: url(4291_1_599ee2c446f21.jpeg);
 
 }
 header h1 {
@@ -16,8 +24,17 @@ header h1 {
   font-style: italic;
   padding: 20px;
 }
+
 iframe{
+
   padding: 10%;
+  border-radius: 10%;
+}
+img{
+  border-radius: 10%;
+  width: 50%;
+
+
 }
 .marroc{
   text-align: center;
@@ -52,20 +69,39 @@ iframe{
 .Peleas{
   position: relative;
   top:140px;
-  background-color: green;
+  background-color: #316B83;
   width: 700px;
-
+  border-radius: 10%;
+  background-image: url(yaoi.jpg);
 }
 
 .Peleas2{
   position: relative;
   top: 140px;
-  background-color: blue;
+  background-color: #6D8299;
   width: 700px;
+  border-radius: 10%;
 }
 .Peleas3{
   position: relative;
   top: 140px;
-  background-color: brown;
+  background-color: #316B83;
   width: 700px;
+  border-radius: 10%;
+}
+
+.Peleas4{
+  position: relative;
+  top:140px;
+  background-color: #8CA1A5;
+  width: 700px;
+  border-radius: 10%;
+}
+.Peleas5{
+  position: relative;
+  top:140px;
+  background-color: #316B83;
+  width: 700px;
+  border-radius: 10%;
+
 }

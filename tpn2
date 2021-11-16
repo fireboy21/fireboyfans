@@ -27,10 +27,10 @@
       <h2>Peleas</h2>
     <ol>
       <li>Rock lee vs Garaa</li><br>
-      <li></li><br>
-      <li></li><br>
-      <li></li><br>
-      <li></li><br>
+      <li>Jotaro vs Dio</li><br>
+      <li>Valhalla vs TouMan</li><br>
+      <li>Saitama vs Boros</li><br>
+      <li>Goku vs Vegeta</li><br>
     </ol>
    </div>
     <div class="paleta">
@@ -38,9 +38,9 @@
         <ul>
           <li><a href="#Rock Lee vs Garaa">Rock Lee vs Garaa</a></li>
           <li><a href="#JvsDio">Jotaro vs Dio</a></li>
-          <li><a href="#"></a></li>
-          <li><a href="#"></a></li>
-          <li><a href="#"></a></li>
+          <li><a href="#Valhalla vs TouMan">Valhalla vs Touman</a></li>
+          <li><a href="#Saitama vs Boros">Saitama vs Boros</a></li>
+          <li><a href="#Goku vs Vegeta">Goku vs Vegeta</a></li>
         </ul>
       </nav>
     </div>
@@ -50,32 +50,33 @@
 
   <div class="Peleas" id="Rock vs Garaa">
     <h1>Rock lee Vs Garaa.</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>Capitulo 48 De Naruto. La pelea se desarrolla en los examenes chunin, Rock Lee se notaba muy emocionado por luchar con Gaara. Al comenzar la pelea, Lee comienza con ataques bastantes rapidos, sin embargo, su rival no parece ni inmutarse de sus ataques, y este mismo contraataca.
+    Al ver a Lee acorralado por la impenetrable defensa de su oponente, su maestro Gai, le pide que se quite unas pesas de entrenamiento, y muchos se reian, pues dudaban mucho de que Lee pudiera ganarle a Gaara quitandose un par de pesas, pero al caer esas pesas al suelo, todo temblo y los espectadores quedaron totalmente boquiabiertos. Lee volvió a atacar pero esta vez con mucha más rapidez, con ataques casi imperceptibles, y así logró atravesar la defensa de su oponente, pero aún estaba muy lejos de ganarle, ya que Gaara volvió a atacar, acorralando nuevamente a su oponente.
+    Lee seguía sin darse por vencido y así usó su última alternativa; la tecnica de las ocho puertas internas. Al concentrar su chakra y abrir la cuarta puerta en si, Lee atacó sin piedad a Gaara, hiriendolo de gravedad.
+    Parecía que Lee había ganado la pelea, pero no. Gaara se levantó, furioso y aprovechando que Lee ya no podía seguir luchando, rompió dos de sus extremidades, se notaba que Gaara quería acabar con su vida, mas no lo logró ya que su maestro, Maito Gai, interfirió, salvando a su alumno.   </p>
+    <img src="yoi.jpg" alt="">
   </div>
-  <img src="" alt="">
+
   <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+
 
   <div class="Peleas2" id="JvsDio">
     <h1>Jotaro vs Dio</h1>
+    <p>Capitulo 47 de JJBA (stardust crusaders). </p>
+  </div>
+  <div class="Peleas3" id="Valhalla vs TouMan">
+    <h1>Valhalla vs TouMan</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   </div>
-  <div class="Peleas3" id="">
-    <h1></h1>
+  <div class="Peleas4" id="Saitama vs Boros">
+    <h1>Saitama vs Boros</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   </div>
+  <div class="Peleas5" id="Goku vs Vegeta">
+    <h1>Goku vs Vegeta</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+
 
 
   <aside class="">
