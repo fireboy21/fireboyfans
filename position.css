@@ -4,10 +4,14 @@ margin: 5;
 }
 body{
   background-color: #D0E4F5;
-  background-image: url("rio.jpeg");
+  background-image: url("123.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: 50% 50%;
+
+}
+span{
+  color: #000000;
 }
 header{
   background-color:
@@ -66,13 +70,20 @@ img{
 
 }
 
-.Peleas{
+div.Peleas{
   position: relative;
   top:140px;
   background-color: #316B83;
   width: 700px;
   border-radius: 10%;
   background-image: url(yaoi.jpg);
+  opacity: 0.7;
+}
+div.trans {
+  color: #000000;
+  font-weight: bold;
+  margin: 5%;
+
 }
 
 .Peleas2{

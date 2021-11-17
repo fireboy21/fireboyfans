@@ -1,3 +1,14 @@
+<!--Trabajo practico 2 -->
+<!--Crear un sitio web usando css externo -->
+<!--contenido:
+          header : elementos de cabecera como: titulo del sitio, una foto/logo, etc
+          nav: una barra de navegacion con los links a las paginas del sitio
+          section1: con algun titulo o texto sobre la seccion con dos articles.
+                  * cada article debe tener al menos un titulo, un texto y una imagen
+          section2: con algun titulo o texto sobre la seccion con dos articles.
+                  * cada article debe tener al menos un titulo, un texto y una imagen
+          footer:  links de la pagina. links a redes sociales. lista con los integrantes del equipo
+                    * iconos a redes sociales con links-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,17 +34,20 @@
   <div class="turron">
 
   <section class="container1">
-    <div class="tallarines">
-      <h2>Peleas</h2>
-    <ol>
-      <li>Rock lee vs Garaa</li><br>
-      <li>Jotaro vs Dio</li><br>
-      <li>Valhalla vs TouMan</li><br>
-      <li>Saitama vs Boros</li><br>
-      <li>Goku vs Vegeta</li><br>
-    </ol>
-   </div>
-    <div class="paleta">
+    <article class="">
+      <div class="tallarines">
+        <h2>Peleas</h2>
+      <ol>
+        <li>Rock lee vs Garaa</li><br>
+        <li>Jotaro vs Dio</li><br>
+        <li>Valhalla vs TouMan</li><br>
+        <li>Saitama vs Boros</li><br>
+        <li>Goku vs Vegeta</li><br>
+      </ol>
+     </div>
+    </article>
+
+    <article class="paleta">
       <nav class="">
         <ul>
           <li><a href="#Rock Lee vs Garaa">Rock Lee vs Garaa</a></li>
@@ -43,21 +57,23 @@
           <li><a href="#Goku vs Vegeta">Goku vs Vegeta</a></li>
         </ul>
       </nav>
-    </div>
+    </article>
 
   </section>
   </div>
 
   <div class="Peleas" id="Rock vs Garaa">
+  <div class="trans">
     <h1>Rock lee Vs Garaa.</h1>
-    <p>Capitulo 48 De Naruto. La pelea se desarrolla en los examenes chunin, Rock Lee se notaba muy emocionado por luchar con Gaara. Al comenzar la pelea, Lee comienza con ataques bastantes rapidos, sin embargo, su rival no parece ni inmutarse de sus ataques, y este mismo contraataca.
+
+    <p><span>Capitulo 48 De Naruto. La pelea se desarrolla en los examenes chunin, Rock Lee se notaba muy emocionado por luchar con Gaara. Al comenzar la pelea, Lee comienza con ataques bastantes rapidos, sin embargo, su rival no parece ni inmutarse de sus ataques, y este mismo contraataca.
     Al ver a Lee acorralado por la impenetrable defensa de su oponente, su maestro Gai, le pide que se quite unas pesas de entrenamiento, y muchos se reian, pues dudaban mucho de que Lee pudiera ganarle a Gaara quitandose un par de pesas, pero al caer esas pesas al suelo, todo temblo y los espectadores quedaron totalmente boquiabiertos. Lee volvió a atacar pero esta vez con mucha más rapidez, con ataques casi imperceptibles, y así logró atravesar la defensa de su oponente, pero aún estaba muy lejos de ganarle, ya que Gaara volvió a atacar, acorralando nuevamente a su oponente.
     Lee seguía sin darse por vencido y así usó su última alternativa; la tecnica de las ocho puertas internas. Al concentrar su chakra y abrir la cuarta puerta en si, Lee atacó sin piedad a Gaara, hiriendolo de gravedad.
-    Parecía que Lee había ganado la pelea, pero no. Gaara se levantó, furioso y aprovechando que Lee ya no podía seguir luchando, rompió dos de sus extremidades, se notaba que Gaara quería acabar con su vida, mas no lo logró ya que su maestro, Maito Gai, interfirió, salvando a su alumno.   </p>
-    <img src="yoi.jpg" alt="">
+    Parecía que Lee había ganado la pelea, pero no. Gaara se levantó, furioso y aprovechando que Lee ya no podía seguir luchando, rompió dos de sus extremidades, se notaba que Gaara quería acabar con su vida, mas no lo logró ya que su maestro, Maito Gai, interfirió, salvando a su alumno.</span></p>
+    </div>
   </div>
 
-  <br>
+
 
 
   <div class="Peleas2" id="JvsDio">
@@ -79,13 +95,13 @@
 
 
 
-  <aside class="">
-
-  </aside>
 
 
   <footer>
-
+  <form class="" action="mailto:abrilabalo07@gmail.com" method="post">
+    <label for="">hola manola</label>
+    <input type="text" name="" value="">
+  </form>
   </footer>
 </body>
 </html>
