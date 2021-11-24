@@ -1,14 +1,3 @@
-<!--Trabajo practico 2 -->
-<!--Crear un sitio web usando css externo -->
-<!--contenido:
-          header : elementos de cabecera como: titulo del sitio, una foto/logo, etc
-          nav: una barra de navegacion con los links a las paginas del sitio
-          section1: con algun titulo o texto sobre la seccion con dos articles.
-                  * cada article debe tener al menos un titulo, un texto y una imagen
-          section2: con algun titulo o texto sobre la seccion con dos articles.
-                  * cada article debe tener al menos un titulo, un texto y una imagen
-          footer:  links de la pagina. links a redes sociales. lista con los integrantes del equipo
-                    * iconos a redes sociales con links-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
